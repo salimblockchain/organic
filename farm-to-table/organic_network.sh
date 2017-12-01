@@ -2,6 +2,9 @@
 # 
 # Copyright IBM Corp All Rights Reserved
 #
+# This code is the intellectual property of IBM GBS and is not to be used by non-GBS practitioners 
+# nor distributed outside of GBS engagements. For full usage guidelines refer to
+# http://ibm.biz/innersourcing-submit-guidelines
 # this may be commented out to resolve installed version of tools if desired
 # run the contents of .bashrc here
 export GOPATH=$HOME/go

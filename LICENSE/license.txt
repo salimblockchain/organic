@@ -1,0 +1,13 @@
+Maintiners: 
+MD SALIM KHAN Email: mohamskh@in.ibm.com
+KULBHUSHAN Email: kulbhushan@in.ibm.com
+CHINMAYA - Email: Chinojha@in.ibm.com
+PARTHA: Email: partha.banerjee@in.ibm.com
+            
+This asset is not commercialized
+
+The code and assets are freely contributed on CodeBlue by community of IBM GBS users and are being made available for evaluation and internal download and reuse within IBM GBS. By accessing, downloading and using the code and assets, you are agreeing not to share or enable use of these assets outside GBS. Should you have a need to provide the code to other GBS practitioners, or are looking to use it for a client engagement, you may only do so in accordance with the guidelines specified in here: http://ibm.biz/innersourcing-submit-guidelines
+
+Copyright IBM Corp. Year 2017, Year 2017.
+
+The source code for this program is not published or otherwise divested of its trade secrets, irrespective of what has been deposited with the U. S. Copyright Office. US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.

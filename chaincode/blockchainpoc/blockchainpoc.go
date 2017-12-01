@@ -1,6 +1,9 @@
 /*
  * This is a smart contract to develop functionality
  * of POC for blockchain.
+ * This code is the intellectual property of IBM GBS and is not to be used by non-GBS practitioners 
+ * nor distributed outside of GBS engagements. For full usage guidelines refer to
+ * http://ibm.biz/innersourcing-submit-guidelines
  */
 
 package main
